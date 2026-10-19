@@ -1,0 +1,6 @@
+{
+  "name": "VIGIA — Gestão Inteligente de Insumos em Saúde",
+  "description": "Menos desperdício. Mais cuidado. Plataforma digital de controle de validade e estoque de medicamentos e insumos para Unidades Básicas de Saúde (UBS).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
